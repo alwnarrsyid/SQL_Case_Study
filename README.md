@@ -1,0 +1,2 @@
+# SQL Study Case
+Explore a comprehensive SQL case study that delves into the world of relational databases. This study focuses on real-world scenarios, covering aspects such as data modeling, querying, and analysis. Gain practical insights into structuring databases, writing effective SQL queries, and uncovering valuable information from datasets. Whether you're a beginner or an experienced SQL user, this case study provides an opportunity to enhance your SQL skills by tackling practical challenges and refining your data manipulation techniques.
